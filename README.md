@@ -1,2 +1,2 @@
-# .github
-About KomodoStacks
+# KomodoStacks
+This organization is private.
